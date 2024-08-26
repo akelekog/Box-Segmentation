@@ -1,0 +1,11 @@
+opencv-python
+tqdm
+matplotlib
+timm
+
+einops
+supervision
+sentencepiece==0.1.99
+accelerate
+groundingdino-py
+git+https://github.com/facebookresearch/segment-anything.git
