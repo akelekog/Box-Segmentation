@@ -3,13 +3,28 @@ Project modifying persense to be used for the downstream task of  carton box ins
 
 
 Follow the instructions of original persense github for directory set-up.
-In the files  are the weights used.
-Images and masks in folder data/Images should have the same name.
+https://github.com/Muhammad-Ibraheem-Siddiqui/PerSense?tab=readme-ov-file
+
+In the project the weights of sam_vit_b are used  
+https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
+
+
+Images and masks in folder data/Images should have the same name example 00.jpg for mask and 00.png for image the names of the images on the test folder are irrelevant.
+Example directory set-up for data folder
+-Persense
+      |
+      data
+        |
+        Images
+        Test
+        sam_vit_b_01ec64.pth
+
+
 persense.py is the original code of persense not yet edited to reflect modifications.
 The project was developed in google colab enviroment.
 The requirements.txt file should cover  most important imports.
 
-To run  notebook follow instructions of original persense repo , here i provide the weight of the sam used (sam_b) ,the requirements.txt and test data.
+To run  notebook follow instructions of original persense repo  here I provide the requirements.txt needed and test data.
 Notebook should be  located and  run from  withing Persense folder.
 
 
