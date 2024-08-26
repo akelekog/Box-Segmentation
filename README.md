@@ -9,3 +9,7 @@ persense.py is the original code of persense not yet edited to reflect modificat
 The project was developed in google colab enviroment.
 The requirements.txt file should cover  most important imports.
 The paths used need changing.
+
+
+
+Changes have been made in the requirements.txt  , this one should be used not the one of the original persense.
