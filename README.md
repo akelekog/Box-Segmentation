@@ -1,7 +1,7 @@
 # Box-Segmentation
 Project modifying persense to be used for the downstream task of  carton box instance segmentation.
 
-
+Make sure to clone persense repo first.
 Follow the instructions of original persense github for directory set-up.
 https://github.com/Muhammad-Ibraheem-Siddiqui/PerSense?tab=readme-ov-file
 
@@ -17,7 +17,10 @@ Images and masks in folder data/Images should have the same name example 00.jpg 
 
 
 
-Example directory set-up for data folder : ![Στιγμιότυπο οθόνης 2024-08-26 222403](https://github.com/user-attachments/assets/bea73760-5aa9-4056-b1a8-a707acff9f94)
+Example directory set-up for data folder :
+
+
+![Στιγμιότυπο οθόνης 2024-08-26 222403](https://github.com/user-attachments/assets/bea73760-5aa9-4056-b1a8-a707acff9f94)
 
 
 
