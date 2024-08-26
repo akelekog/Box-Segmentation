@@ -8,8 +8,15 @@ Images and masks in folder data/Images should have the same name.
 persense.py is the original code of persense not yet edited to reflect modifications.
 The project was developed in google colab enviroment.
 The requirements.txt file should cover  most important imports.
+
+To run  notebook follow instructions of original persense repo , here i provide the weight of the sam used (sam_b) ,the requirements.txt and test data.
+Notebook should be  located and  run from  withing Persense folder.
+
+
+
 The paths used need changing.
-Notebook should be run withing Persense folder.
+
+
 
 
 Changes have been made in the requirements.txt  , this one should be used not the one of the original persense.
