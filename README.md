@@ -10,14 +10,8 @@ https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth
 
 
 Images and masks in folder data/Images should have the same name example 00.jpg for mask and 00.png for image the names of the images on the test folder are irrelevant.
-Example directory set-up for data folder
--Persense
-      |
-      data
-        |
-        Images
-        Test
-        sam_vit_b_01ec64.pth
+Example directory set-up for data folder : ![Στιγμιότυπο οθόνης 2024-08-26 222403](https://github.com/user-attachments/assets/bea73760-5aa9-4056-b1a8-a707acff9f94)
+
 
 
 persense.py is the original code of persense not yet edited to reflect modifications.
